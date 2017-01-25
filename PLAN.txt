@@ -1,0 +1,56 @@
+Our Plan to Earn Money
+
+Advertisement
+
+To advertise our product to the public, our team leader will contact clubs around the community for collaboration, explaining the benefits that they will gain working with us, so that we can advertise our game to more people. For instance, we will contact the Vancouver Shogi Club and request to post a video presenting the game and a free beta version on their website and Facebook page.
+
+In order to catch potential customers’ attention and to have the public know more about our software, two people in our group will develop a video of how the product works. Within this video we will explain specifically what the product is and what options are available within the game in a non-technical way so that users will understand. A short tutorial and gameplay of the product will be presented in the video. Also, we will emphasize on the capabilities of our product in order to make it stand out from any other Shogi game. For example, multiple playable variants of Shogi, playing over a network, a clever AI to play against, and the ease and simple approach of using the software.
+
+Beta Test
+
+Releasing a beta test will allow us to get important feedback before investing resources into the development of our product. Our beta version will be free, including a simple version of what we are offering in order to release the product to the public and receive honest feedback. This method will help us improve our product early and save money in the future.
+
+Free Trial
+
+After we receive enough feedback, we will apply necessary improvements and offer a free 7-day trial to the public. This trial includes all the features of our software. For example, all game variants, and all AI difficulties. Since we are a small group of unknown developers, we will provide a free trial in order to help potential customers see that our software works for them, and is not a scam. Thus, a free trial will greatly increase the chance for more customers.
+
+After the 7-day trial expires, users will be asked to purchase the full complete version of our product in order to continue using it. If the trial is expired, a message box will appear when the application is launched notifying the user to purchase our full version. This notification will restrict the user to continue using our product until he or she purchases the full version.
+
+
+Donations
+
+We will also include a donation button on the download webpage. This option is completely optional to the public and will not be forced on them to donate money.
+
+
+
+
+
+Licensing Issues
+
+The Software License
+
+We will provide an offer to conclude a contract which would grant the user a license to use our product. This licensing contract will be zipped together with our software in a file called “LICENSE.txt”, containing all legal conditions related to the product. This method allows users to enter a contract when using our product.
+
+We will grant the customer a revocable, non-exclusive, non-transferable, limited right to install and use our software on a single computer owned by the customer. Customers must agree to the terms and conditions of our license in order to access and use our software.
+
+Customers shall use our software strictly in accordance with the license and shall not decompose, reverse engineer, disassemble, attempt to derive the source code of, or decrypt the application; make any modification, adaptation, improvement, enhancement, translation or derivative work from the software; violate any applicable laws, rules or regulations in connection with the customer’s access or use of the software; use the software for any revenue generating endeavour, commercial enterprise, or other purpose for which it is not designed or intended; use the software for creating a product, service or software that is, directly or indirectly, competitive or in any way a substitute for any services, product or software offered by us.
+
+The customer and us developers acknowledge and agree that, in the event of a third party claim that the software or the customer’s possession or use of the application infringes any third party’s intellectual property rights. The customer will be responsible for the investigation, defence, settlement and discharge of any such claim of intellectual property infringement. The customer will promptly notify us developers in writing of such a claim.
+
+Two people in our team will be dedicated to ensuring the legality of our plan and checking for licensing issues.
+
+
+
+
+
+Customer Service
+
+Customer Support
+
+Contact information including an e-mail and a phone number to reach us will be located on the download webpage as well as a “README.txt” file which will be zipped with the software. This will allow customers to contact us with any issues and concerns. We will have three people in our team dedicated to an audit of the code for any issues which may damage the users’ machine. Two people in our team will be responsible for responding to any questions or complaints from customers.
+
+Refund Policy
+
+Customers can request a refund of their purchase for any reason within two weeks of purchase. Upon a request of a refund, the customer will receive a full refund and will also be asked to explain why they chose to get a refund. This will allow us to understand what customers are dissatisfied with, and we can then improve our software. The customer does not have to answer if they do not wish. This question will be optional. The two people who are responsible for customer support are also responsible for handling refunds.
+
+
